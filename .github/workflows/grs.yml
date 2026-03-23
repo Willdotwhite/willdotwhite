@@ -15,10 +15,9 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=merko
           path: profile/stats.svg
           token: ${{ secrets.CARD_PAT_TOKEN }}
-          theme: gruvbox
 
       - name: Commit cards
         run: |
