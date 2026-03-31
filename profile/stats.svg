@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Will White's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Commits  (last year) : 690, Total PRs: 423, Total PRs Merged: 345, Merged PRs Percentage: 81.56, Total PRs Reviewed: 237, Total Issues: 36, Contributed to (last year): 20</desc>
+        <desc id="descId">Total Commits  (last year) : 690, Total PRs: 424, Total PRs Merged: 345, Merged PRs Percentage: 81.37, Total PRs Reviewed: 238, Total Issues: 36, Contributed to (last year): 20</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 109.49268040088094;
+        stroke-dashoffset: 109.4902239123578;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >423</text>
+      >424</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >81.56 %</text>
+      >81.37 %</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="reviews"
-      >237</text>
+      >238</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
